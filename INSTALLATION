@@ -1,0 +1,44 @@
+================================================================================
+
+                        I N S T A L L A T I O N
+
+                                LeafPHP
+
+                by Andreas Bourakis <bourakis@gmail.com>
+                               
+                            openlab.gr (c) 2012
+================================================================================
+
+
+Configuration
+-------------
+The config.php is in array mode containing the sections below.You can find it
+in directory "protected/configs/config.php". The database schema is at
+"PROJECT_FILES/yaf_blog.sql" direcotry.
+
+mode:
+    defining the working mode. Under development you could use DEBUG. In
+    production mode use NORMAL.
+      
+name:
+    declare the name of the project.
+
+default_controller:
+    The name of default controller to be loaded.
+
+modules:
+    declare the modules to be loaded.
+
+libs:
+    declare the libs to be loaded
+
+lang:
+    the languages to be used.
+
+db:
+    Details for database connection.
+
+
+
+
+

@@ -1,0 +1,25 @@
+
+=============================================================================================
+
+                             LeafPHP -- Updates history
+
+=============================================================================================
+
+15/07/2012:
+-----------
+
+* The multi-language system has transitioned from a single large file containing an array 
+  for every language to separate files per language, such as profile.en.php instead of profile.php, 
+  which previously contained a large array with translations for every language. This change 
+  applies not only to 'models' but also to 'viewers.' Using the same approach, viewers will 
+  now have the ability to be multilingual.
+  [Andreas Bourakis]
+
+* From now on, models will only contain data. In previous versions, models included HTML contents 
+  as well. This change aims to eliminate confusion between the roles of Models and Views.
+  [Andreas Bourakis]
+
+
+
+
+
