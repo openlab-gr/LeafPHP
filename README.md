@@ -1,10 +1,9 @@
-================================================================================
+
 
                           LeafPHP - Learn PHP Framework
                            
                              openlab.gr (c) 2012-2023
                                
-================================================================================
 
 LeafPHP is the successor of YafYaf PHP Framework developed back in 2012.
 
