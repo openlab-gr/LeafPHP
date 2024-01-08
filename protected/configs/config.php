@@ -26,9 +26,9 @@ return array(
              ),
 
     'db'=>array(
-          'host'=>'dev.wideweb.gr',
+          'host'=>'localhost',
           'uname'=>'root',
-          'pass'=>'123456',
+          'pass'=>'',
           'db_name'=>'leafphp_demo',
           ),
 
